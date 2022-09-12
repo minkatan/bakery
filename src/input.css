@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body {
+    @apply bg-gray-100 text-gray-800
+}
+
+body {
+    font-family: 'Nanum Gothic', sans-serif;
+}
+
+#coffee {
+    font-family: 'Caveat', cursive;
+}
